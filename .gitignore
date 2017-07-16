@@ -2,3 +2,9 @@
 *.jpg
 
 *.mp4
+
+\.idea/workspace\.xml
+
+\.idea/inspectionProfiles/
+
+\.idea/
